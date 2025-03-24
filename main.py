@@ -48,7 +48,7 @@ bot = Client(
 # Environment variables for API credentials
 API_ID = os.environ.get("API_ID", "24473318")
 API_HASH = os.environ.get("API_HASH", "e7dd0576c5ac0ff8f90971d6bb04c8f5")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7629229683:AAH24IQkmtr65qD5HKlAN0s4H5nZEoM5U5M")
 
 
 async def start_bot():
